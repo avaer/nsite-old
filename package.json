@@ -1,0 +1,23 @@
+{
+  "name": "nsite",
+  "version": "0.0.1",
+  "description": "Node site downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modulesio/nsite.git"
+  },
+  "author": "Avaer Kazmer <a@modules.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/modulesio/nsite/issues"
+  },
+  "homepage": "https://github.com/modulesio/nsite#readme",
+  "dependencies": {
+    "electron": "^2.0.7",
+    "express": "^4.16.3"
+  }
+}
